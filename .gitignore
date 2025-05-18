@@ -1,0 +1,9 @@
+node_modules/**
+index.html
+assets/page.html
+metroponus.com.page.html
+site.txt
+.*
+!.gitignore
+*.backup
+*~
